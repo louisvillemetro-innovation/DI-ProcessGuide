@@ -1,4 +1,5 @@
 # DI-ProcessGuide
+This guide supports one of the programs under the Office of Civic Innovation's Digital Inclusion initiative. You can read more about our Digital Inclusion efforts here: https://projects.lsvll.io/projects/digital-inclusion/
 
 ## Scope:
 Digital Inclusion partners that are performing imaging of donated hardware need a robust process to receive, track, manage and deploy refurbished assets.  
